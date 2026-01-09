@@ -18,6 +18,8 @@ The dataset used for this project contains real-world data science job informati
   
 # Dashboard Build
 ## Charts
+### Data Science Job Salaries - Horizontal Bar Chart
+### Country Median Salaries - Map Chart
 ## Formulas and Functions
 ## Data Validation
 # Conclusion
