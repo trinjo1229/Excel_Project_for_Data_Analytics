@@ -92,4 +92,4 @@ The dataset used for this project contains real-world data science job informati
 - I plotted data into a combonation pivot chart to display salary and skills likelihood (%) simultaneously. I customized the chart by revoming the lines, only leaving the line markers.
 
 # 🟪 Conclusion
-I created this project through the Excel course I took so I can gain further insight about the data related jobs available. This included finding out the most requested skills amongst positions, knowing what and how many skills I should learn, and what is the average salary I can expect for learning these skills. I used feaures like Powery Query, PivotTables, DAX, and multiple charts types to discover these insights.   
+I created this project through the Excel course I took so I can gain further insight about the data related jobs available. This included finding out the most requested skills amongst positions, knowing what and how many skills I should learn, and what is the average salary I can expect for learning these skills. I used features like Power Query, PivotTables, DAX, and multiple charts types to discover these insights.   
