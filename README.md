@@ -10,4 +10,4 @@ This project was meant to give insight to those trying to break into a data rela
 
 ![Posision Salary Skill Table](Photos/Position_Salary_Skills_Table.png)  
 ![Posision Salary Skill Chart](Photos/Position_Salary_Skills_Chart.png)  
-To check it out for yourself [click here](Project_1-Dashboard)! 
+To check it out for yourself [click here](Project_2-Analysis)! 
