@@ -19,8 +19,8 @@ The dataset used for this project contains real-world data science job informati
 # 🟦 Dashboard Build
 ## 📈 Charts
 ### Data Science Job Salaries - Horizontal Bar Chart
-<img width="900" height="496" alt="Project1_JobTitle_BarChart" src="https://github.com/user-attachments/assets/04a2c616-c99c-4c4d-a43c-c86a76afa93a" />  
-  
+ <img width="910" height="445" alt="Project1_JobTitle_BarChart" src="https://github.com/user-attachments/assets/63b2903c-e760-48ef-86d2-d3d8d2eb5653" />
+
 - **Excel Features:** Used the bar chart feature and axis formatting.
   
 - **Design Choice:** Used horizontal bar charts to easily compare median salaries across different data positions.
@@ -72,4 +72,4 @@ The dataset used for this project contains real-world data science job informati
   - Reducing the use of incorrect inputs
     
 # 🟦 Conclusion
-I created this project through the Excel course I took so I and others can gain insight on what data related jobs were available, what the expected salary for these positions are, and ultimately where these positions were located. This dashboard provodes great insight for me and other like me wanting to find a career in data.  
+I created this project through the Excel course I took so I and others can gain insight on what data related jobs were available, what the expected salary for these positions are, and ultimately where these positions were located. This dashboard provides great insight for me and others like me wanting to find a career in data.  
