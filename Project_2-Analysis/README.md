@@ -1,8 +1,8 @@
 # 🟪 Introduction
 ## Questions to Analyze
 1. Do more skills earn you more money?
-2. What's the average salary for different data positions across different locations?
-3. What are the top 10 request skills in data?
+2. What's the average salary for different data positions across different countries?
+3. What are the top 10 requested skills in data?
 4. What's the average for those top 10 skills?
    
 ## Excel Skills Used
@@ -11,12 +11,14 @@
 - 🧼 Power Query
 - ⚒ Power Pivot
 - 🧮 DAX
+  
 ## Data Jobs Dataset
 The dataset used for this project contains real-world data science job information from 2023. The dataset was provided via Luke Barousse's Excel course. The following information could be foudn in this dataset:
 - Job titles
 - Yearly and Hourly Salaries
 - Locations
 - Required Skills
+  
 # 🟪 Questions
 ## ❔ Do more skills earn you more money?
 ### **Analysis**
@@ -32,7 +34,7 @@ The dataset used for this project contains real-world data science job informati
 
 - Loaded all the information into a pivot table for analysis.
 
-## ❔ What's the average salary for different data positions across different locations?
+## ❔ What's the average salary for different data positions across different countries?
 ### **Analysis**
 <img width="1486" height="554" alt="Project2_SaalryByLocation" src="https://github.com/user-attachments/assets/e7c92c1d-d3f3-4993-8d51-4c34a5c011e7" />
 
@@ -44,7 +46,7 @@ The dataset used for this project contains real-world data science job informati
   
 ### **Method**
 #### Over Arching Skill(s): PivotTables & DAX
-- Created PivotTable using the data model I created in PowerPivot.
+- Created a pivot table using the data model I created in PowerPivot.
 - Calculated the average salary values by creating the following measures:
    - Median Salary:
       - ```
@@ -63,7 +65,7 @@ The dataset used for this project contains real-world data science job informati
                                                data_jobs_all[job_country] <> "United States")
         ```
 
-## ❔ What are the top 10 request skills in data?
+## ❔ What are the top 10 requested skills in data?
 ### **Analysis**
 <img width="1022" height="617" alt="Project2_SkillLikelihood" src="https://github.com/user-attachments/assets/d9159c6d-d7b6-4052-a1e4-f1b8c20c6744" />
 
@@ -81,13 +83,13 @@ The dataset used for this project contains real-world data science job informati
 ### **Analysis**
 <img width="1156" height="560" alt="Project2_SkillstoPay" src="https://github.com/user-attachments/assets/022689c8-848d-4593-902a-485d54201d5f" />
 
-- Shows that Python and SQL are both highly requested skills in the data industry, and the average salary that can be earned from having these skills is relatively high. While, although having skills in Spark or AWS is not as requested, having then lends to earning a higher salary on average.
+- This chart shows that Python and SQL are both highly requested skills in the data industry, and the average salary that can be earned from having these skills is relatively high. While although having skills in Spark or AWS is not as requested, having then lends to earning a higher salary on average.
   
 - This information informs those in the industry and or wanting to go into the industry what their earning potential is based on the skills they currently have or will learn. This gives them the power to negotiate their salary accordingly.
    
 ### **Method**
 #### Over Arching Skill(s): Pivot Chart
-- Plotted data into a combonation pivot chart to display salary and skills likelihood (%) simultaneously. I customized the chart by revoming the lines, only leaving the line markers.
+- I plotted data into a combonation pivot chart to display salary and skills likelihood (%) simultaneously. I customized the chart by revoming the lines, only leaving the line markers.
 
 # 🟪 Conclusion
-I created this project through the Excel course I took so I can gain further insight about the data related jobs available. This included finding out the most requested skills amongst positions, knowing what and how many skills should I learn, and what is the average salary I can expect for learning these skills. I used feaures like Powery Query, PivotTables, DAX, and multiple charts types to discover these insights.   
+I created this project through the Excel course I took so I can gain further insight about the data related jobs available. This included finding out the most requested skills amongst positions, knowing what and how many skills I should learn, and what is the average salary I can expect for learning these skills. I used feaures like Powery Query, PivotTables, DAX, and multiple charts types to discover these insights.   
