@@ -81,7 +81,7 @@ The dataset used for this project contains real-world data science job informati
 
 ## ❔ What's the average for those top 10 skills?
 ### **Analysis**
-<img width="1156" height="560" alt="Project2_SkillstoPay" src="https://github.com/user-attachments/assets/022689c8-848d-4593-902a-485d54201d5f" />
+<img width="1310" height="610" alt="Project2_SkillstoPay" src="https://github.com/user-attachments/assets/7eb04f42-b5e4-4547-9b73-42d37c6563f1" />
 
 - This chart shows that Python and SQL are both highly requested skills in the data industry, and the average salary that can be earned from having these skills is relatively high. While although having skills in Spark or AWS is not as requested, having then lends to earning a higher salary on average.
   
